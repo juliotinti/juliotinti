@@ -1,7 +1,7 @@
 ### Hello, my name is Júlio!!
 
 - 📚 I'm a mechatronics engineering student. 
-- 🌱 I’m currently learning C#.
+- 🌱 I’m currently learning Python.
 - 🎮 My personal goal is to develop a game.
 - 📖 My other personal goal is to write a book. 
 
