@@ -2,8 +2,7 @@
 
 - 📚 I'm a mechatronics engineering student. 
 - 🌱 I’m currently learning Python.
-- 🎮 My personal goal is to develop a game.
-- 📖 My other personal goal is to write a book. 
+- 🎮 My personal goal is to develop a game and to write a book. 
 
 <div align="center">
   <a href="https://github.com/juliotinti">
