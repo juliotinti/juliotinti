@@ -1,7 +1,7 @@
 ### Hello, my name is Júlio!!
 
 - 📚 I'm a mechatronics engineering student. 
-- 🌱 I’m currently learning Python.
+- 🌱 I’m currently learning Java.
 - 🎮 My personal goal is to develop a game and to write a book. 
 
 <div align="center">
@@ -13,6 +13,7 @@
   <img align="center" alt="Julio-Arduino" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
   <img align="center" alt="Julio-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Julio-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img align="center" alt="Julio-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 </div>
 
   ##
