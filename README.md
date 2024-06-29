@@ -1,8 +1,16 @@
 ### Hello, my name is Júlio!!
 
-- 📚 I'm a mechatronics engineering student. 
-- 🌱 I’m currently learning Java.
-- 🎮 My personal goal is to develop a game and to write a book. 
+- 📚 I'm a mechatronics engineering student currently doing my undergraduate thesis. 
+- 🌱 I’m currently learning microservices projects and its technologies.
+- 🎮 My personal goal is to tell a story, whether in a book or a game.
+
+Skills:
+ • Languages: Java, TypeScript, Python, Swift, C++
+ • Databases: MySQL, OracleDB, MongoDB, InfluxDB
+ • Code Testing: JUnit, Jasmine, Cucumber and Playwright
+ • GIT : GitHub, Gerrit
+ • Tools and Frameworks: Angular, Docker, Kubernetes, Flask, Streamlit
+ • Miscellaneous: MQTT, Node-RED, 3D modeling, Raspberry PI, Arduino, LoRa
 
 <div align="center">
   <a href="https://github.com/juliotinti">
