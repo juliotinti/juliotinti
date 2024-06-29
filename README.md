@@ -5,12 +5,12 @@
 - 🎮 My personal goal is to tell a story, whether in a book or a game.
 
 Skills:
- • Languages: Java, TypeScript, Python, Swift, C++
- • Databases: MySQL, OracleDB, MongoDB, InfluxDB
- • Code Testing: JUnit, Jasmine, Cucumber and Playwright
- • GIT : GitHub, Gerrit
- • Tools and Frameworks: Angular, Docker, Kubernetes, Flask, Streamlit
- • Miscellaneous: MQTT, Node-RED, 3D modeling, Raspberry PI, Arduino, LoRa
+ - Languages: Java, TypeScript, Python, Swift, C++
+ - Databases: MySQL, OracleDB, MongoDB, InfluxDB
+ - Code Testing: JUnit, Jasmine, Cucumber and Playwright
+ - GIT : GitHub, Gerrit
+ - Tools and Frameworks: Angular, Docker, Kubernetes, Flask, Streamlit
+ - Miscellaneous: MQTT, Node-RED, 3D modeling, Raspberry PI, Arduino, LoRa
 
 <div align="center">
   <a href="https://github.com/juliotinti">
