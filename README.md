@@ -1,11 +1,11 @@
 ### Hello, my name is Júlio!!
 
-- 📚 I'm a mechatronics engineering student currently doing my undergraduate thesis. 
+- 📚 I'm a Mechatronics Engineer. 
 - 🌱 I’m currently learning microservices projects and its technologies.
 - 🎮 My personal goal is to tell a story, whether in a book or a game.
 
 Skills:
- - Languages: Java, TypeScript, Python, Swift, C++
+ - Languages: Java, TypeScript, Golang, Python, Swift, C++
  - Databases: MySQL, OracleDB, MongoDB, InfluxDB
  - Code Testing: JUnit, Jasmine, Cucumber and Playwright
  - GIT : GitHub, Gerrit
