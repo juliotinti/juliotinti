@@ -2,38 +2,39 @@
 
 My focus is on reducing complexity: I architected internal tooling that cut microservice creation time from 2 weeks to minutes, and optimized systems to deliver 56% more throughput with 67% less resource usage.  I operate as Technical Architect for strategic initiatives, leading projects from design to delivery. I've presented to Head-level executives and external customers, and one of my projects was positioned as a strategic priority by Senior Product Management.
 
-• Experience in software engineering, specializing in backend development with Java and Spring Boot in large-scale microservices environments.
+- Experience in software engineering, specializing in backend development with Java and Spring Boot in large-scale microservices environments.
 
-• Strong experience with event-driven architectures using Kafka and asynchronous messaging.
+- Strong experience with event-driven architectures using Kafka and asynchronous messaging.
 
-• Active contribution to architectural discussions and microservice design, delivering measurable performance improvements, including up to 56% higher throughput (TPS) and up to 67% reduction in resource usage.
+- Active contribution to architectural discussions and microservice design, delivering measurable performance improvements, including up to 56% higher throughput (TPS) and up to 67% reduction in resource usage.
 
-• Architected an internal SDK that reduced Total Cost of Ownership (TCO) and cut microservice creation time by 99% (from 2 weeks to minutes) by generating production-ready components, connectors, and BPMN artifacts with zero infrastructure overhead.
+- Architected an internal SDK that reduced Total Cost of Ownership (TCO) and cut microservice creation time by 99% (from 2 weeks to minutes) by generating production-ready components, connectors, and BPMN artifacts with zero infrastructure overhead.
 
-• Developed and maintained a backend microservice based on Camunda 7, using BPMN workflows to model business processes and enable modular, reusable backend functionality.
+- Developed and maintained a backend microservice based on Camunda 7, using BPMN workflows to model business processes and enable modular, reusable backend functionality.
 
-• Skilled in containerized environments using Docker and Kubernetes, supporting CI/CD pipelines and production deployments.
+- Skilled in containerized environments using Docker and Kubernetes, supporting CI/CD pipelines and production deployments.
 
-• Experience with automated testing, including unit, integration, and E2E testing with JUnit, Jasmine, Cucumber, and Playwright.
+- Experience with automated testing, including unit, integration, and E2E testing with JUnit, Jasmine, Cucumber, and Playwright.
 
-• Background in IoT and embedded systems, with experience in microcontrollers, sensor data pipelines, and real-time data processing.
+- Background in IoT and embedded systems, with experience in microcontrollers, sensor data pipelines, and real-time data processing.
 
 
 Skills:
 
- • Languages: Java, TypeScript, Python, Swift, C++
  
- • Databases: Cassandra, MySQL, OracleDB, MongoDB, InfluxDB
+ - Languages: Java, TypeScript, Python, Swift, C++
  
- • Code Testing: JUnit, Jasmine, Cucumber and Playwright
+ - Databases: Cassandra, MySQL, OracleDB, MongoDB, InfluxDB
  
- • Asynchronous & Messaging: Kafka, RabbitMQ, MQTT
+ - Code Testing: JUnit, Jasmine, Cucumber and Playwright
  
- • GIT : GitHub, Gerrit
+ - Asynchronous & Messaging: Kafka, RabbitMQ, MQTT
  
- • Tools and Frameworks: SpringBoot, Angular, Camunda (BPMN), Docker, Kubernetes, Helm, Flask, Streamlit
+ - GIT : GitHub, Gerrit
  
- • Miscellaneous: AI-assisted Development (Kiro-cli, Codex), MCP, Node-RED, 3D modeling, Raspberry PI, Arduino, LoRa
+ - Tools and Frameworks: SpringBoot, Angular, Camunda (BPMN), Docker, Kubernetes, Helm, Flask, Streamlit
+ 
+ - Miscellaneous: AI-assisted Development (Kiro-cli, Codex), MCP, Node-RED, 3D modeling, Raspberry PI, Arduino, LoRa
  
 
 <div align="center">
